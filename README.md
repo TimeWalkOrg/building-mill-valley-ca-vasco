@@ -3,17 +3,17 @@
 
 ## Building History
 
-In 1899, the building was called Wheeler Martin Pioneer Grocery Store, and later was changed to Allen & Roseveare.
+In the 1920's this building was Wheeler Martin's Pioneer Grocery, owned by no other than Wheeler Martin. later, it became Mill Valley's first post office, with Wheeler becoming postmaster. 
 
-- Built: c.tbd
-- Replaced: c.tbd
-- Architect: tbd
-- Library link: tbd
+- Built: 1890
+- Replaced: Unknown
+- Architect: Unknown
+- Library link: Unknown
 
 
 ## SketchUp Model
 
-- Made by Henry Basnight, Nathan Schwartzman
+- Made by Henry Basnight, Nathan Schwartzman, Rowan Olds
 - Model completed: December, 2017
 - Modeled in SketchUp Make 2017
 
