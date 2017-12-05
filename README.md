@@ -3,7 +3,7 @@
 
 ## Building History
 
-In the 1920s this building (describe the building purpose in 1920)...
+In 1899, the building was called Wheeler Martin Pioneer Grocery Store, and later was changed to Allen & Roseveare.
 
 - Built: c.tbd
 - Replaced: c.tbd
