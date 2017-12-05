@@ -3,7 +3,7 @@
 
 ## Building History
 
-In the 1920's this building was Wheeler Martin's Pioneer Grocery, owned by no other than Wheeler Martin. later, it became Mill Valley's first post office, with Wheeler becoming postmaster. 
+In the 1920's this building was Wheeler Martin's Pioneer Grocery, owned by no other than Wheeler Martin. Later, it became Mill Valley's first post office, with Wheeler becoming postmaster. 
 
 - Built: Lot sold in 1890, Store opened in 1894
 - Replaced: Unknown
