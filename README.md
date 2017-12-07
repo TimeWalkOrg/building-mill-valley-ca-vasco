@@ -1,5 +1,4 @@
 # Vasco
-(formerly "The Pioneer Grocery", then "Allen & Roseveare Grocers")
 106 Throckmorton Ave., Mill Valley, CA 94941
 
 ## Building History
@@ -11,6 +10,13 @@ In the 1920's this building was known as Allen & Roseveare Grocers.
 - Built: Lot sold in 1890, Pioneer Grocery opened in 1894
 - Replaced: Remodeled, but never replaced
 - Architect: Unknown
+
+## Occupants:
+- Carpenter shop (1890-1894)
+- The Pioneer Grocery (1894-?)
+- Allen & Roseveare Grocers (?-?)
+- The Old Mill Tavern (?-?)
+- Vasco (?-present)
 
 ## SketchUp Model
 
