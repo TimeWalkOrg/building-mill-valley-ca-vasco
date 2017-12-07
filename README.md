@@ -1,5 +1,5 @@
 # Vasco
-## formerly "The Pioneer Grocery", then "Allen & Roseveare Grocers"
+(formerly "The Pioneer Grocery", then "Allen & Roseveare Grocers")
 106 Throckmorton Ave., Mill Valley, CA 94941
 
 ## Building History
