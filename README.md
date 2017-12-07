@@ -5,7 +5,7 @@
 
 "The first lot sold at the auction of 1890 was located at the corner of Bernard and Throckmorton Avenues. It was leased as the site of a carpenter shop which was replaced by 1894 with a two story building crowned with a cupola that became Wheeler Martin's Pioneer Grocery.  Martin was appointed postmaster in 1894 and the post office was moved to his store from the railroad station." Source: [Mill Valley Historical Society Review, Spring 1984](http://www.millvalleylibrary.net/historyroom/collections/archive/files/mvhs1984spring-reduce_910d348bce.pdf) 
 
-In the 1920's this building was known as Allen & Roseveare Grocers.
+In the 1920's this building was known as Roseveare & Allen Grocers.
 
 - Built: Lot sold in 1890, Pioneer Grocery opened in 1894
 - Replaced: Remodeled, but never replaced
