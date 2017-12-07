@@ -24,7 +24,7 @@ In the 1920's this building was known as Roseveare & Allen Grocers.
 - Model completed: December, 2017
 - Modeled in SketchUp Make 2017
 
-![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-vasco/blob/master/SketchUp%20screenshot.png)
+![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-vasco/blob/master/vasco-1920.jpg)
 ![MV Historical Review photo c.1920](https://github.com/TimeWalkOrg/building-mill-valley-ca-vasco/blob/master/vasco-1900s-photo.jpg)
 
 ### Online references & photographs
