@@ -38,4 +38,5 @@ In the 1920's this building was known as Allen & Roseveare Grocers.
 
 
 ## Future Edits
-- Model is based on 1890 photo: look for 1920 versions to ensure accuracy
+- Model is based on c1894 photo: look for 1920 versions to ensure accuracy
+- Sign read "Allen & Roseveare" in 1920?
