@@ -14,7 +14,7 @@ In the 1920's this building was known as Allen & Roseveare Grocers.
 ## Occupants:
 - Carpenter shop (1890-1894)
 - The Pioneer Grocery (1894-?)
-- Allen & Roseveare Grocers (?-?)
+- Roseveare & Allen Grocers (?-?)
 - The Old Mill Tavern (?-?)
 - Vasco (?-present)
 
@@ -39,4 +39,4 @@ In the 1920's this building was known as Allen & Roseveare Grocers.
 
 ## Future Edits
 - Model is based on c1894 photo: look for 1920 versions to ensure accuracy
-- Sign read "Allen & Roseveare" in 1920?
+- Sign read "Roseveare & Allen" in 1920?
