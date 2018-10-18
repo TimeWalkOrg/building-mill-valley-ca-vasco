@@ -7,7 +7,10 @@ In 1890, a large land auction held by the Tamalpais Land and Water Company set t
 
 In 1910 Allen & Roseveare, Quality Grocers took over this site. Three more grocery stores followed, the last being Safeway in 1930. When Safeway moved locations in 1939, the site became Osgood’s Tavern, beginning the long line of food and liquor purveyors at this location, including The Old Mill Tavern, O’Leary’s, Bistro Bistro, Annabell’s, The Frog and The Peach, and the current occupant, Vasco.
 
-###Occupants:
+-	Built: Lot sold in 1890, Pioneer Grocery opened in 1894
+-	Modifications: Remodeled, but never replaced
+
+### Occupants:
 -	Carpenter shop (1890-1894)
 -	The Wheeler Martin Pioneer Grocery (1894-?)
 -	Allen & Roseveare Quality Grocers 1910-
@@ -20,8 +23,6 @@ In 1910 Allen & Roseveare, Quality Grocers took over this site. Three more groce
 -	The Frog and the Peach (1996-1997)
 -	Vasco (1998-present)
 
--	Built: Lot sold in 1890, Pioneer Grocery opened in 1894
--	Modifications: Remodeled, but never replaced
 
 ## SketchUp Model
 
