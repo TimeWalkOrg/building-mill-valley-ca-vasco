@@ -3,20 +3,25 @@
 
 ## Building History
 
-"The first lot sold at the auction of 1890 was located at the corner of Bernard and Throckmorton Avenues. It was leased as the site of a carpenter shop which was replaced by 1894 with a two story building crowned with a cupola that became Wheeler Martin's Pioneer Grocery.  Martin was appointed postmaster in 1894 and the post office was moved to his store from the railroad station." Source: [Mill Valley Historical Society Review, Spring 1984](http://www.millvalleylibrary.net/historyroom/collections/archive/files/mvhs1984spring-reduce_910d348bce.pdf) 
+In 1890, a large land auction held by the Tamalpais Land and Water Company set the stage for Mill Valley’s early beginnings. The first lot sold at that auction was the one at the intersection of Bernard and Throckmorton Avenues, currently known as 106 Throckmorton Avenue. "It was leased as the site of a carpenter shop which was replaced by 1894 with a two-story building crowned with a cupola that became Wheeler Martin's Pioneer Grocery. Martin was appointed postmaster in 1894 and the post office was moved to his store from the railroad station." (Source: [Mill Valley Historical Society Review, Spring 1984](http://www.millvalleylibrary.net/historyroom/collections/archive/files/mvhs1984spring-reduce_910d348bce.pdf))
 
-In the 1920's this building was known as Allen & Roseveare Grocers.
+In 1910 Allen & Roseveare, Quality Grocers took over this site. Three more grocery stores followed, the last being Safeway in 1930. When Safeway moved locations in 1939, the site became Osgood’s Tavern, beginning the long line of food and liquor purveyors at this location, including The Old Mill Tavern, O’Leary’s, Bistro Bistro, Annabell’s, The Frog and The Peach, and the current occupant, Vasco.
 
-- Built: Lot sold in 1890, Pioneer Grocery opened in 1894
-- Replaced: Remodeled, but never replaced
-- Architect: Unknown
+###Occupants:
+-	Carpenter shop (1890-1894)
+-	The Wheeler Martin Pioneer Grocery (1894-?)
+-	Allen & Roseveare Quality Grocers 1910-
+-	Safeway (1930-1938)
+-	Osgood’s Tavern (moved here from 36 Miller 1939-1948)
+-	The Old Mill Tavern (1948-1981)
+-	O’Leary’s Pub & Seafood Grill (1982-1994)
+-	Bistro Bistro (1994-1995)
+-	Annabelle’s (1995-1996)
+-	The Frog and the Peach (1996-1997)
+-	Vasco (1998-present)
 
-## Occupants:
-- Carpenter shop (1890-1894)
-- The Pioneer Grocery (1894-?)
-- Roseveare & Allen Grocers (?-?)
-- The Old Mill Tavern (?-?)
-- Vasco (?-present)
+-	Built: Lot sold in 1890, Pioneer Grocery opened in 1894
+-	Modifications: Remodeled, but never replaced
 
 ## SketchUp Model
 
